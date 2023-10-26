@@ -1,2 +1,2 @@
-# ComeIT
+# ComIT
 test repo
