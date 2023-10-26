@@ -1,3 +1,3 @@
-# ComeIT
+# ComIT
 test repo
 new 
